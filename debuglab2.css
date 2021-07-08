@@ -1,0 +1,13 @@
+body {background-color: #ffe400;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #00078c;
+    text-align:center;
+    text-shadow:10px black}
+ul {text-align:left;
+    padding-left:20%}
+h1 {text-align:center;
+    background-color: #9e8d00;
+    height:10%;
+    width:50% auto;
+    border: 0.1em solid lightyellow}
+title {text-align:center;}

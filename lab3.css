@@ -1,0 +1,21 @@
+body {background-color:#787656;
+color: white;
+text-align:center;
+font-family:Verdana, Geneva, Tahoma, sans-serif;}
+
+div {list-style-position: inside;
+display:table;
+padding:10% auto;
+margin:auto;
+background-color: #504f38;
+width:20%;
+text-align: center;
+height:auto;}
+
+img {padding:1%}
+
+a:link {text-decoration:none;}
+a:link {color: #fecbff;}
+a:visited {color: #8a018c}
+a:hover {color: #fc29ff}
+a:active {color: #C0F0FC}
